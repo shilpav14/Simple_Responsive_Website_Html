@@ -1,0 +1,23 @@
+.html_css {
+  background-color: #dee7ec;
+  color: #889eab;
+}
+
+.about p {
+	color: #fff;
+	margin-left: 240px;
+	padding-top: 240px;
+	font-size: 18px;
+}
+
+header {
+	background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url(bg.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+button {
+	font-size: 20px;
+	margin-bottom: 50px;
+	margin-left: 580px; 
+}

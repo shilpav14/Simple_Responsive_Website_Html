@@ -1,0 +1,64 @@
+.about p {
+	color: #fff;
+	margin-left: 20px;
+	font-size: 18px;
+}
+
+header {
+	background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url(swift1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.nav-bar {
+	background: rgb(0,0,0,0.5);
+	height: 80px;
+}
+
+.welcome {
+	background-position: relative;
+	text-align: center;
+	font-family: sans-serif;
+	color: #fff;
+}
+
+.welcome h1 {
+	font-size: 42px;
+	margin: 50px;
+	padding: 10px;
+}
+
+.btn {
+	font-size: 18px;
+	letter-spacing: 2px;
+	margin: 5px;
+	padding: 7px 10px;
+	text-decoration: none;
+	border: 1px solid #fff;
+}
+
+.btn1 {
+	color: #fff;
+}
+
+.btn2 {
+	color: #fff;
+}
+
+.btn2:hover {
+	background: #fff;
+	color: #000;
+	transition: .4s
+}
+.btn1:hover {
+	background: #fff;
+	color: #000;
+	transition: .4s
+}
+
+.nav-bar {
+	color: #fff;
+	font-size: 35px;
+	padding-left: 450px;
+}
